@@ -16,6 +16,10 @@ p {
     padding-left: 80px;
 }
 
+.intro {
+    text-align: center
+}
+
 body { 
     background-color: burlywood;
 }
@@ -24,8 +28,15 @@ p {
     background-color:green;
 }
 
+p {
+    text-align: center
+}
 img {
     display: block;
     margin: auto;
     width: 50%;
+}
+
+#title {
+    font-size: 200%;
 }
